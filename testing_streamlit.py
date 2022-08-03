@@ -4,7 +4,7 @@ st.write("""my first App""")
 df = pd.DataFrame({
   'Numero': [1, 2, 3, 4],
   'Calificacion': [10, 20, 30, 40],
-  'Nombre': ['pedro', 'juan', 'luis']
+  'Nombre': ['pedro', 'juan', 'luis', 'Jose']
 })
 
 df
